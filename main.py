@@ -1,7 +1,6 @@
 import http.server
 import socketserver
 from settings import DEFAULT_PORT
-PORT = 3001
 
 Handler = http.server.SimpleHTTPRequestHandler
 
